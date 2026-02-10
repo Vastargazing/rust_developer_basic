@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0d51a309-51ec-45b5-a5b5-185c71d66cd6" />
+<img width="624" height="624" alt="image" src="https://github.com/user-attachments/assets/0d51a309-51ec-45b5-a5b5-185c71d66cd6" />
 
 
 # Тема 1: Типы данных. Переменные и функции
